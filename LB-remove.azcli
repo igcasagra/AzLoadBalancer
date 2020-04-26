@@ -1,0 +1,2 @@
+group=live-lb-cooperati
+az group delete -g $group
